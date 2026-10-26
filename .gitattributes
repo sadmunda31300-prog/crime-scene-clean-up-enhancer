@@ -1,0 +1,8 @@
+# This file is used to override language statistics
+# Generated on 2026-11-10   
+# Default behavior
+*.png binary
+*.html linguist-vendored
+*.jpeg binary
+*.ts linguist-detectable
+# eof c71908d9
