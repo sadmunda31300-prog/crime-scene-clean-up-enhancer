@@ -1,0 +1,6 @@
+.pnpm-store/
+dist/
+yarn-error.log*
+*.log
+.cache/
+node_modules/
